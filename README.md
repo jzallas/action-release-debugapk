@@ -60,4 +60,4 @@ You'll need to provide these environment variables to specify exactly what infor
 
 ## Credits
 
-Based off [elgohr/Github-Hub-Action](https://github.com/elgohr/Github-Hub-Action)
+Based off [ShaunLWM/action-release-debugapk](https://github.com/ShaunLWM/action-release-debugapk)
